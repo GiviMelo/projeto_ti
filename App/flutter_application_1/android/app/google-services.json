@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "625588123137",
+    "firebase_url": "https://projetopuc-c602e-default-rtdb.firebaseio.com",
+    "project_id": "projetopuc-c602e",
+    "storage_bucket": "projetopuc-c602e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625588123137:android:d845f1ec941fccfe96b200",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYjm-LtnmbtUThMsYiN460QbkOKbOznM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
